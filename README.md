@@ -3,7 +3,7 @@
 ### Introduction:
 
 
-![image](https://user-images.githubusercontent.com/82542269/213283498-bc684d19-9044-4c44-9457-8aa1082c5f52.png)
+
 
 
 In this notebook analysis,  will work on creating a structural model to predict the performance of an employee in the office environment. structural model tries to learn the relationship between measured &latent variables. latent variable is the concept or idea that cannot be measured directly. It can be viewed as a mix of factor analysis and regression analysis. for example , one cannot estimate human intelligence.however, it can be indirectly measured by the IQ score and education years.
@@ -48,12 +48,11 @@ Some of the exploration is shown as follow:
 
 ![image](https://user-images.githubusercontent.com/82542269/213283252-db6fef4d-3156-432a-a720-ed7e099596dc.png)
 
+![image](https://user-images.githubusercontent.com/82542269/213284925-d6af7337-53a7-4ba6-a10f-5907a683dd5d.png)
+![image](https://user-images.githubusercontent.com/82542269/213284989-d536822a-05f6-45c3-8943-13b107e86852.png)
 
 
-![image](https://user-images.githubusercontent.com/82542269/213283278-81d83006-9511-4849-bac6-ce94aa33ef10.png)
 
-
-![image](https://user-images.githubusercontent.com/82542269/213283304-264ebd03-dcee-415b-b6f1-a665b1a0c6ea.png)
 
 Based on the mean , mode and others it seems like all of the columns are normally distributed. It can be seen that features are of normal distribution. 
 
@@ -81,7 +80,7 @@ The given scatterplots shows that there is a strong linear relationship between 
 ### Hypothesis testing
 
 
-![image](https://user-images.githubusercontent.com/82542269/213281913-43fe8829-efc1-4078-87e7-137819cc358d.png)
+![image](https://user-images.githubusercontent.com/82542269/213285142-236959b4-06e2-42e6-ac12-383a6027bfa8.png)
 
 
 
@@ -98,12 +97,10 @@ Based on the p-value requires, we see significance of IQ, HrsTrn, HrsWrk , Clien
 
 
 
-
-# 
-
 ## Insights:
 
-![image](https://user-images.githubusercontent.com/82542269/213281520-56d2a4a7-5827-44e1-938a-eaec795737b9.png)
+![image](https://user-images.githubusercontent.com/82542269/213285211-d8de93a9-8c78-46d2-b7d5-e2e971838291.png)
+
 
 
 
