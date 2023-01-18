@@ -45,7 +45,8 @@ Some of the exploration is shown as follow:
 
 #### Distribution of some of the variables
 
-![image](https://user-images.githubusercontent.com/82542269/213285441-75b5627e-1286-46da-82ea-943f20da89a3.png)
+
+![image](https://user-images.githubusercontent.com/82542269/213285660-17a28f8e-74df-459b-a8cc-81cfc7c56b12.png)
 
 
 ![image](https://user-images.githubusercontent.com/82542269/213284925-d6af7337-53a7-4ba6-a10f-5907a683dd5d.png)
