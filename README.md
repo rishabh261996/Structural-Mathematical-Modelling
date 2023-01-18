@@ -14,7 +14,7 @@ In this notebook analysis,  will work on creating a structural model to predict 
 
 
 
-The data is shown below along with its link:
+The first few rows of data are  shown below along with its link:
 
 
 ![image](https://user-images.githubusercontent.com/82542269/213284152-b1e0df9c-42fc-4544-97b0-3cfdea973c9c.png)
