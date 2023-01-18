@@ -24,7 +24,6 @@ https://articledatas3.s3.eu-central-1.amazonaws.com/StructuralEquationModelingDa
 
 
 
-![image](https://user-images.githubusercontent.com/82542269/213280939-8200a4d3-9b57-4dbf-a967-db90fb9d07d6.png)
 
 
 
@@ -46,7 +45,8 @@ Some of the exploration is shown as follow:
 
 #### Distribution of some of the variables
 
-![image](https://user-images.githubusercontent.com/82542269/213283252-db6fef4d-3156-432a-a720-ed7e099596dc.png)
+![image](https://user-images.githubusercontent.com/82542269/213285441-75b5627e-1286-46da-82ea-943f20da89a3.png)
+
 
 ![image](https://user-images.githubusercontent.com/82542269/213284925-d6af7337-53a7-4ba6-a10f-5907a683dd5d.png)
 ![image](https://user-images.githubusercontent.com/82542269/213284989-d536822a-05f6-45c3-8943-13b107e86852.png)
