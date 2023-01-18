@@ -118,6 +118,8 @@ In the given case, it tells us whether the variation in the data is explained by
  
 
 2nd impact of each independent variable:
+
+
 We should know that each variable has a significance in the model prediction. we should always avoid using variables that have insignificant impact.from the above summary details, all p-values are negligible implying that there is significant impact of eachvariable on to the job performance
 
 
