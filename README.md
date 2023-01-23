@@ -90,9 +90,19 @@ In this change, we wanted to analyze the average mean of each variable over the 
 
 
 
+### Model Results:
+
+
+The below table illustrates the information derived from using sem model (structural modelling) using lavaan package of r
+
+<img width="495" alt="structural_results" src="https://user-images.githubusercontent.com/82542269/214037904-5638833d-e588-45cf-9868-aae9514efb13.PNG">
+
+
 
 
 Based on the p-value requires, we see **significance of IQ, HrsTrn, HrsWrk , Client Sat** .It implies that Those with a high Education level tend to have a higher IQ, lower hours in training, lower average hours in work, a higher average client satisfaction rate. It reconfirms the usual belief that people with high education (like Phd holders) requires less work to train and work and a  having a more IQ score and client satisfaction rate
+
+
 
 
 
