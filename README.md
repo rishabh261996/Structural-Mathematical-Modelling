@@ -168,4 +168,21 @@ The employees with a **higher level of social skills** can become a handy assets
 
 
 
+## References:
+
+
+https://www.researchgate.net/publication/302560505_Mathematical_Modeling_A_Structured_Process
+
+https://towardsdatascience.com/structural-equation-modeling-dca298798f4d
+
+https://en.wikipedia.org/wiki/Mathematical_model
+
+
+
+
+
+
+
+
+
 
